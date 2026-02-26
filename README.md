@@ -47,6 +47,7 @@ This project focuses on the design and development of a dynamic and interactive 
 ## Dashboard
 <img width="1286" height="722" alt="Car sales Dashboard Overview" src="https://github.com/user-attachments/assets/1ee0fd85-0402-4129-a986-3b6d9afac647" />
 <img width="1283" height="724" alt="Car Sales Dashboard Details" src="https://github.com/user-attachments/assets/e3ab82f5-97a6-4048-9eea-5c674d7ab31e" />
+
 ## Project Insight
 - YTD Total Sales are strong at $371.2M with 23.59% growth.
 - YTD Cars Sold reached 13.3K units, up 24.57% YOY.

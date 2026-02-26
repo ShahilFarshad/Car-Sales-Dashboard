@@ -47,7 +47,7 @@ This project focuses on the design and development of a dynamic and interactive 
 <img width="1283" height="724" alt="Car Sales Dashboard Details" src="https://github.com/user-attachments/assets/e3ab82f5-97a6-4048-9eea-5c674d7ab31e" />
 
 ## Dashboard file 
-<a href = "https://github.com/ShahilFarshad/Car-Sales-Dashboard/blob/main/Car%20Sales%20dashboard.pbix"> Dashboard file in Power BI </a>
+<a href = "https://github.com/ShahilFarshad/Car-Sales-Dashboard/blob/main/Car%20Sales%20dashboard.pbix"> Car sales Dashboard</a>
 
 ## Project Insight
 - YTD Total Sales are strong at $371.2M with 23.59% growth.

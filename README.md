@@ -21,16 +21,15 @@ This project focuses on the design and development of a dynamic and interactive 
 -	MTD Cars Sold
 -	YOY Growth in Cars Sold
 -	Difference between YTD Cars Sold and PTYD Cars Sold
-- Dashboard Interaction <a href="https://github.com/ShahilFarshad/Car-Sales-Dashboard/blob/main/Car%20sales%20Dashboard%20Overview.png"> View Dashboard </a>
+- Dashboard Interaction <a href="https://github.com/ShahilFarshad/Car-Sales-Dashboard/blob/main/Car%20sales%20Dashboard%20Overview.png"> View Car Sales Dashboard|Overview </a>
 ## Problem Statement 2: Charts Requirement
 1.	YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
 2.	YTD Total Sales by Body Style: Visualize the distribution of YTD total sales across different car body styles using a Pie chart.
 3.	YTD Total Sales by Color: Present the contribution of various car colors to the YTD total sales through a pie chart.
 4.	YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on different dealer regions using a map chart to visualize the sales distribution geographically.
 5.	Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
-6.	Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc
-
-
+6.	Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc.
+- Dashboard Interaction <a href = "https://github.com/ShahilFarshad/Car-Sales-Dashboard/blob/main/Car%20Sales%20Dashboard%20Details.png"> View Car Sales Dasboard|Details </a> 
 ## Process
 - Data Collection and Import into Power BI – Gather the sales dataset and load it into Power BI from sources such as Excel, CSV, or a database.
 - Data Cleaning and Transformation (Power Query) – Clean the data by correcting data types, removing duplicates or null values, renaming columns, and preparing the dataset for analysis.
@@ -47,5 +46,7 @@ This project focuses on the design and development of a dynamic and interactive 
 
 ## Dashboard
 <img width="1286" height="722" alt="Car sales Dashboard Overview" src="https://github.com/user-attachments/assets/1ee0fd85-0402-4129-a986-3b6d9afac647" />
+<img width="1283" height="724" alt="Car Sales Dashboard Details" src="https://github.com/user-attachments/assets/e3ab82f5-97a6-4048-9eea-5c674d7ab31e" />
+
 
 

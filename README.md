@@ -3,8 +3,6 @@
 This project focuses on the design and development of a dynamic and interactive Car Sales Dashboard using Power BI for a car dealership company. The dashboard provides real-time insights into sales performance by visualizing key performance indicators (KPIs) and trends. It enables management to monitor progress, evaluate growth, and make data-driven business decisions.
 ## Dataset used
 <a href = "https://github.com/ShahilFarshad/Car-Sales-Dashboard/blob/main/Car%20Sales.xlsx"> Car Sales Dataset </a>
-## Dashboard file 
-<a href = "https://github.com/ShahilFarshad/Car-Sales-Dashboard/blob/main/Car%20Sales%20dashboard.pbix"> Dashboard file in Power BI </a>
 ## Problem Statement 1: KPI’s Requirement
 1.	Sales Overview:
 - Year-to-Date (YTD) Total Sales
@@ -47,6 +45,8 @@ This project focuses on the design and development of a dynamic and interactive 
 ## Dashboard
 <img width="1286" height="722" alt="Car sales Dashboard Overview" src="https://github.com/user-attachments/assets/1ee0fd85-0402-4129-a986-3b6d9afac647" />
 <img width="1283" height="724" alt="Car Sales Dashboard Details" src="https://github.com/user-attachments/assets/e3ab82f5-97a6-4048-9eea-5c674d7ab31e" />
+## Dashboard file 
+<a href = "https://github.com/ShahilFarshad/Car-Sales-Dashboard/blob/main/Car%20Sales%20dashboard.pbix"> Dashboard file in Power BI </a>
 
 ## Project Insight
 - YTD Total Sales are strong at $371.2M with 23.59% growth.

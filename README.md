@@ -47,6 +47,19 @@ This project focuses on the design and development of a dynamic and interactive 
 ## Dashboard
 <img width="1286" height="722" alt="Car sales Dashboard Overview" src="https://github.com/user-attachments/assets/1ee0fd85-0402-4129-a986-3b6d9afac647" />
 <img width="1283" height="724" alt="Car Sales Dashboard Details" src="https://github.com/user-attachments/assets/e3ab82f5-97a6-4048-9eea-5c674d7ab31e" />
-
+## Project Insight
+- YTD Total Sales are strong at $371.2M with 23.59% growth.
+- YTD Cars Sold reached 13.3K units, up 24.57% YOY.
+- Average Price is $28K, slightly decreased by 0.79%.
+- Sales growth is driven mainly by higher volume, not price increase.
+- Weekly sales show peaks around weeks 35–45.
+- SUVs are the top-selling body style.
+- Pale White and Black are the most preferred car colors.
+- Certain regions contribute more heavily to total sales.
+- Chevrolet and Dodge are among the top-performing brands.
+- Most cars are sold in the $15K–$30K range, with some high-value sales boosting revenue.
+## Final Conclusion
+The Car Sales Dashboard project successfully delivers a comprehensive and interactive Power BI solution that provides clear visibility into sales performance. The analysis shows strong year-over-year growth driven primarily by increased vehicle sales volume, while average pricing remains stable. SUVs and neutral-colored vehicles dominate customer preferences, and certain brands and regions contribute significantly to overall revenue.
+By integrating KPIs, time intelligence metrics, and detailed transaction-level insights, the dashboard enables data-driven decision-making, performance monitoring, and strategic planning. Overall, this project demonstrates how business intelligence tools like Power BI can transform raw sales data into meaningful insights that support growth and operational efficiency.
 
 

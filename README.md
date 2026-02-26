@@ -4,4 +4,4 @@ This project focuses on the design and development of a dynamic and interactive 
 ## Dataset used
 <a href = "https://github.com/ShahilFarshad/Car-Sales-Dashboard/blob/main/Car%20Sales.xlsx"> Car Sales Dataset </a>
 ## Dashboard file 
-
+<a herf = "https://github.com/ShahilFarshad/Car-Sales-Dashboard/blob/main/Car%20Sales%20dashboard.pbix" > Dashboard file in Power BI </a>

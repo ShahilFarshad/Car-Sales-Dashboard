@@ -45,6 +45,7 @@ This project focuses on the design and development of a dynamic and interactive 
 ## Dashboard
 <img width="1286" height="722" alt="Car sales Dashboard Overview" src="https://github.com/user-attachments/assets/1ee0fd85-0402-4129-a986-3b6d9afac647" />
 <img width="1283" height="724" alt="Car Sales Dashboard Details" src="https://github.com/user-attachments/assets/e3ab82f5-97a6-4048-9eea-5c674d7ab31e" />
+
 ## Dashboard file 
 <a href = "https://github.com/ShahilFarshad/Car-Sales-Dashboard/blob/main/Car%20Sales%20dashboard.pbix"> Dashboard file in Power BI </a>
 

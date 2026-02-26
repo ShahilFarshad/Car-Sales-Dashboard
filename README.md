@@ -21,3 +21,4 @@ This project focuses on the design and development of a dynamic and interactive 
 -	MTD Cars Sold
 -	YOY Growth in Cars Sold
 -	Difference between YTD Cars Sold and PTYD Cars Sold
+- Dashboard Interaction <a href="https://github.com/ShahilFarshad/Car-Sales-Dashboard/blob/main/Car%20sales%20Dashboard%20Overview.png"> View Dashboard </a>
